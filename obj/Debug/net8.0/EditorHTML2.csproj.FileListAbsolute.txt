@@ -1,0 +1,14 @@
+C:\Users\RL\desktop\csharp\projetos\EditorHTML2\bin\Debug\net8.0\EditorHTML2.exe
+C:\Users\RL\desktop\csharp\projetos\EditorHTML2\bin\Debug\net8.0\EditorHTML2.deps.json
+C:\Users\RL\desktop\csharp\projetos\EditorHTML2\bin\Debug\net8.0\EditorHTML2.runtimeconfig.json
+C:\Users\RL\desktop\csharp\projetos\EditorHTML2\bin\Debug\net8.0\EditorHTML2.dll
+C:\Users\RL\desktop\csharp\projetos\EditorHTML2\bin\Debug\net8.0\EditorHTML2.pdb
+C:\Users\RL\desktop\csharp\projetos\EditorHTML2\obj\Debug\net8.0\EditorHTML2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\desktop\csharp\projetos\EditorHTML2\obj\Debug\net8.0\EditorHTML2.AssemblyInfoInputs.cache
+C:\Users\RL\desktop\csharp\projetos\EditorHTML2\obj\Debug\net8.0\EditorHTML2.AssemblyInfo.cs
+C:\Users\RL\desktop\csharp\projetos\EditorHTML2\obj\Debug\net8.0\EditorHTML2.csproj.CoreCompileInputs.cache
+C:\Users\RL\desktop\csharp\projetos\EditorHTML2\obj\Debug\net8.0\EditorHTML2.dll
+C:\Users\RL\desktop\csharp\projetos\EditorHTML2\obj\Debug\net8.0\refint\EditorHTML2.dll
+C:\Users\RL\desktop\csharp\projetos\EditorHTML2\obj\Debug\net8.0\EditorHTML2.pdb
+C:\Users\RL\desktop\csharp\projetos\EditorHTML2\obj\Debug\net8.0\EditorHTML2.genruntimeconfig.cache
+C:\Users\RL\desktop\csharp\projetos\EditorHTML2\obj\Debug\net8.0\ref\EditorHTML2.dll
